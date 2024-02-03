@@ -1,6 +1,6 @@
-import Bat from '../Bat.js'
-import Bird from '../Bird.js'
-import Fish from '../Fish.js'
+import Bat from '../Animals.js'
+import Bird from '../Animals.js'
+import Fish from '../Animals.js'
 
 describe("Bat", function() {
   it("makes noise", function() {
